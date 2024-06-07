@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvodipdassowmik&label=Profile%20views&color=0e75b6&style=flat" alt="shuvodipdassowmik" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Alogorithms and Object Oriented Programming**
+- 🌱 I’m currently learning **Data Structures, Algorithms and Object Oriented Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShuvodipDasSowmik](https://github.com/ShuvodipDasSowmik)
 
-- 📫 How to reach me **shuvodipsowmik@gmail.com**
+- 📫 Reach me at **shuvodipsowmik@gmail.com**
 
-- ⚡ Fun fact **Follow my youtube channel for memes at https://www.youtube.com/@aalokbarshosmemebook1875**
+- ⚡ **Follow my youtube channel for memes at https://www.youtube.com/@aalokbarshosmemebook1875**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
