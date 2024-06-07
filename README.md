@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvodipdassowmik&label=Profile%20views&color=0e75b6&style=flat" alt="shuvodipdassowmik" /> </p>
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and Object Oriented Programming**
+- 🌱 I’m currently learning **Data Structures and Alogorithms and Object Oriented Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShuvodipDasSowmik](https://github.com/ShuvodipDasSowmik)
 
@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/d.sowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/d.sowmik" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/d.sowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/d.sowmik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucnavzszkzws2yv3obuf0jmq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnavzszkzws2yv3obuf0jmq" height="30" width="40" /></a>
+<a href="https://fb.com/d.sowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="d.sowmik" height="30" width="40" /></a>
+<a href="https://instagram.com/d.sowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d.sowmik" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucnavzszkzws2yv3obuf0jmq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnavzszkzws2yv3obuf0jmq" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shuvodip_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shuvodip_das" height="30" width="40" /></a>
 </p>
 
