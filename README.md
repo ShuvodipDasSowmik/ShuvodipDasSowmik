@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://fb.com/d.sowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="d.sowmik" height="30" width="40" /></a>
 <a href="https://instagram.com/d.sowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d.sowmik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucnavzszkzws2yv3obuf0jmq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnavzszkzws2yv3obuf0jmq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@shuvodipsowmik69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnavzszkzws2yv3obuf0jmq" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shuvodip_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shuvodip_das" height="30" width="40" /></a>
 </p>
 
