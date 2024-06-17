@@ -19,7 +19,8 @@
 
 <h3 align="left"> Watch Walkthrough of My Latest Project:</h3>
 <br>
-<video src="Assets/Space Shooter Gameplay.mp4" width="480" height="270" controls autoplay> </video>
+<!--<video src="Assets/Space Shooter Gameplay.mp4" width="480" height="270" controls autoplay> </video>-->
+https://github.com/ShuvodipDasSowmik/ShuvodipDasSowmik/assets/154417645/c2662e8d-d53e-4a65-99b3-b71689711301
 <br>
 <h3 align="left">Connect with me:</h3>
 <hr>
