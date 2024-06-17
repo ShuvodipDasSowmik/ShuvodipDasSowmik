@@ -14,7 +14,7 @@
 
 <h3 align = "left"> Watch Walkthrough of My Latest Project:</h3>
 <br>
-<video src = "https://www.youtube.com/watch?v=oSiu2Ih3bss" controls autoplay width = "350"> </video>
+<iframe src = "https://www.youtube.com/watch?v=oSiu2Ih3bss" width = "350"> </iframe>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
