@@ -8,7 +8,7 @@
         src="https://komarev.com/ghpvc/?username=shuvodipdassowmik&label=Profile%20views&color=0e75b6&style=flat"
         alt="shuvodipdassowmik" /> </p>
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and Object Oriented Programming**
+- 🌱 I’m currently learning **Data Structures, Algorithms, Object Oriented Programming, Frontend Development**
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/ShuvodipDasSowmik](https://github.com/ShuvodipDasSowmik)
