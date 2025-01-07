@@ -10,16 +10,10 @@
 
 - 🌱 I’m currently learning **Data Structures, Algorithms, Object Oriented Programming, Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at
-[https://github.com/ShuvodipDasSowmik](https://github.com/ShuvodipDasSowmik)
-
 - 📫 Reach me at **shuvodipsowmik@gmail.com**
 
 - ⚡ **Follow my youtube channel for memes at https://www.youtube.com/@aalokbarshosmemebook1875**
 
-<h3 align="left"> Watch Walkthrough of My Latest Project:</h3>
-<!--<video src="Assets/Space Shooter Gameplay.mp4" width="480" height="270" controls autoplay> </video>-->
-https://github.com/ShuvodipDasSowmik/ShuvodipDasSowmik/assets/154417645/c2662e8d-d53e-4a65-99b3-b71689711301
 <br>
 <h3 align="left">Connect with me:</h3>
 <hr>
