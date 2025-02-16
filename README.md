@@ -17,7 +17,7 @@
 <br>
 <br clear="both">
 
-<h2 align="center">My Techstakcs</h2>
+<h2 align="center">My Techstacks</h2>
 
 ###
 
