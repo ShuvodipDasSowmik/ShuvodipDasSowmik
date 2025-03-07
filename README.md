@@ -47,7 +47,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShuvodipDasSowmik&count_private=true&show_icons=true&theme=dracula&cache_seconds=1800" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvodipDasSowmik&layout=compact&theme=dracula" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvodipDasSowmik&layout=compact&theme=dracula" width = "auto" height="150" alt="languages graph"  />
 </div>
 
 ###
