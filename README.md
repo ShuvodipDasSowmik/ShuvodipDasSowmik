@@ -34,6 +34,8 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 <img width="12" />
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
@@ -44,7 +46,6 @@
 <img width="12" />
 <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
-
 ###
 
 <div align="center">
