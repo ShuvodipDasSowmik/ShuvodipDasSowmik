@@ -50,8 +50,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShuvodipDasSowmik&count_private=true&show_icons=true&theme=dracula&cache_seconds=1800" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvodipDasSowmik&layout=donut&theme=dracula&cache_seconds=1800" height="200" alt="languages graph"  />
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvodipdassowmik&show_icons=true&theme=dracula&title_color=FB3640&text_color=fcfcfc&locale=en" alt="shuvodipdassowmik" /></p>
+    
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvodipdassowmik&show_icons=true&theme=dracula&title_color=FB3640&text_color=ffffff&cache_seconds=1800&locale=en&layout=compact" alt="shuvodipdassowmik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvodipdassowmik&theme=dark" alt="shuvodipdassowmik" /></p>
 </div>
 
 ###
